@@ -1,3 +1,7 @@
+**Recycler View**
+
+ ![Image](https://github.com/user-attachments/assets/3a5aebfa-93e6-4417-a269-ca14179ac942)
+
 Bài tập 6
 - 
 
